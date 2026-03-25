@@ -1,0 +1,23 @@
+{
+  "common": {
+    "success": "Berhasil!",
+    "error": "Terjadi kesalahan!",
+    "warning": "Peringatan",
+    "loading": "Memuat...",
+    "invalidUser": "User tidak valid!",
+    "invalidChannel": "Channel tidak valid!",
+    "noPermission": "Anda tidak memiliki izin menggunakan command ini!",
+    "botNoPermission": "Bot tidak memiliki izin yang diperlukan!"
+  },
+  "commands": {
+    "ping": {
+      "description": "Menampilkan latency bot",
+      "response": "Pong! 🏓 Latency: {latency}ms"
+    },
+    "help": {
+      "description": "Menampilkan command yang tersedia",
+      "title": "Command yang Tersedia",
+      "noCommands": "Tidak ada command yang ditemukan!"
+    }
+  }
+}

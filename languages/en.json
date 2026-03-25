@@ -1,0 +1,23 @@
+{
+  "common": {
+    "success": "Success!",
+    "error": "An error occurred!",
+    "warning": "Warning",
+    "loading": "Loading...",
+    "invalidUser": "Invalid user!",
+    "invalidChannel": "Invalid channel!",
+    "noPermission": "You don't have permission to use this command!",
+    "botNoPermission": "I don't have the required permissions!"
+  },
+  "commands": {
+    "ping": {
+      "description": "Shows the bot's latency",
+      "response": "Pong! 🏓 Latency: {latency}ms"
+    },
+    "help": {
+      "description": "Shows available commands",
+      "title": "Available Commands",
+      "noCommands": "No commands found!"
+    }
+  }
+}

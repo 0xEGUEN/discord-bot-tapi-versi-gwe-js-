@@ -1,0 +1,11 @@
+{
+  "botName": "Discord Bot",
+  "version": "1.0.0",
+  "defaultLanguage": "en",
+  "embedColor": "#0099ff",
+  "errorColor": "#ff0000",
+  "successColor": "#00ff00",
+  "ownerID": [],
+  "modLogsChannelID": "",
+  "bugReportChannelID": ""
+}

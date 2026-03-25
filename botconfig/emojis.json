@@ -1,0 +1,21 @@
+{
+  "success": "✅",
+  "error": "❌",
+  "warning": "⚠️",
+  "info": "ℹ️",
+  "loading": "⏳",
+  "music": "🎵",
+  "like": "👍",
+  "dislike": "👎",
+  "star": "⭐",
+  "channel": "#️⃣",
+  "lock": "🔒",
+  "unlock": "🔓",
+  "delete": "🗑️",
+  "update": "🔄",
+  "back": "⬅️",
+  "forward": "➡️",
+  "stop": "⏹️",
+  "play": "▶️",
+  "pause": "⏸️"
+}
